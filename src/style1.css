@@ -41,6 +41,7 @@ h2 {
 dt{
     font-weight: bold;
     font-size: 20px;
+    text-transform: lowercase;
 }
 
 dd {margin: 0 0 12px 0; display: flex;}
