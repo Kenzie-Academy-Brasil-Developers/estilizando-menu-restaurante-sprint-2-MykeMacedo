@@ -36,12 +36,12 @@ h2 {
     margin: 0;
     color: #6d4c41;
     font-family: 'versalete', sans-serif;
+    font-variant:small-caps;
 }
 
 dt{
     font-weight: bold;
     font-size: 20px;
-    text-transform: lowercase;
 }
 
 dd {margin: 0 0 12px 0; display: flex;}
